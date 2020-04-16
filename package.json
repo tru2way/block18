@@ -1,0 +1,12 @@
+{
+	"name": "Block18",
+	"version": "0.0.1",
+	"description": "Redhat OpenShift on IBM Cloud",
+	"scripts": {
+		"start": "node app.js"
+	},
+	"dependencies": {
+		"express": "x.x.x"
+	},
+	"repository": {}
+}
