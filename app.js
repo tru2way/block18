@@ -7,7 +7,7 @@ app.use(express.static(__dirname + '/'));
 
 app.get( '/', function(req,res){
 	console.log( 'In root');
-	res.write( 'Welcome to Redhat OpenShift on IBM Cloud!!!');
+	res.write( 'Welcome to Redhat OpenShift Playground!!!');
 	res.end();
 });
 
